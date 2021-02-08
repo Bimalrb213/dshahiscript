@@ -1,3 +1,1 @@
 print("Devlops lag")
-
-bimal
